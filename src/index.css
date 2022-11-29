@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+  }
+  
+html {
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: white;
+}
